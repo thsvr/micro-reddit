@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails - Micro-Reddit
+## Building with Active Record
 
-Things you may want to cover:
+This is a tutorial completed as part of 'The Odin Project' Ruby on Rails curriculum.
 
-* Ruby version
+In this project, the data structures necessary to support link submissions and commenting for a reddit like application have been created. The Rails console can be used to play around with models without the overhead of making HTTP requests and involving controllers or views.
 
-* System dependencies
+### Requirements
 
-* Configuration
+* Ruby 2.6.3
 
-* Database creation
+### Installation
 
-* Database initialization
+* Download repository to your local machine, then run `bundle install`.
 
-* How to run the test suite
+### Useful Links
 
-* Services (job queues, cache servers, search engines, etc.)
+* [The Odin Project: Project Description Link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-* Deployment instructions
+## Authors: 
+### Aaron R. Newbold
+Aaron's Github Profile: https://github.com/Aaron-RN
+### Thaís Vieira Azevedo
+Thaís's Github Profile: https://github.com/thsvr
 
-* ...
+
+## Github Link
+Github Link: https://github.com/thsvr/micro-reddit
