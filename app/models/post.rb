@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Posts Table
 class Post < ApplicationRecord
   belongs_to :user
   has_many :comments
